@@ -44,14 +44,22 @@ Make sure your local environment have the following installed:
 
 ► [Sage Starter Theme](https://github.com/LoopingTech/sage)
 
-► [Twenty Twenty Child Theme]()
+► [Twenty Twenty Child Theme](https://github.com/LoopingTech/twentytwenty-child)
 
 ► [Headless Projects]()
 
 
-## Plugins
+## 3. Install Plugins
 
 coming soon...
+
+
+## 4. Populate with Test Data
+
+coming soon...
+
+
+----
 
 
 ## Changelog
