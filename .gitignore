@@ -1,0 +1,59 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### WordPress ###
+# ignore node dependency directories
+node_modules/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+### Local by Flywheel ###
+wp-includes
+.htaccess
+index.php
+license.txt
+local-phpinfo.php
+readme.html
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-config.php
+wp-config-sample.php
+wp-cron.php
+wp-links-opml.php
+wp-load.php
+wp-login.php
+wp-mail.php
+wp-settings.php
+wp-signup.php
+wp-trackback.php
+xmlrpc.php
+wp-config.php
